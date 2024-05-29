@@ -16,6 +16,10 @@ public class tgne {
 		System.out.println("TEST 1");
 	}public void u_gd() {
 		System.out.println("TEST 1");
+		System.out.println("TEST 2");
+		System.out.println("TEST 12");
+		System.out.println("TEST 31");
+		System.out.println("TEST 14");
 	}
 	
 }
