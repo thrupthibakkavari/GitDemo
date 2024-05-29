@@ -13,6 +13,9 @@ public class swappingNumbers {
 		System.out.println(m);
 		// TODO Auto-generated method stub
 
+		
+		System.out.println(n);
+		System.out.println("mn");
 	}
 
 }
